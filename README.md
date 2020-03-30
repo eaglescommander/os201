@@ -1,2 +1,3 @@
 # os201
-OS Assignment
+Repository of OS Assignments
+University of Indonesia
