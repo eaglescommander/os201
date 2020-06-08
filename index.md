@@ -4,4 +4,4 @@ Welcome to my Operating Systems page ([eaglescommander](https://github.com/eagle
 
 ## The Why
 
-This is a sample text of readme
+This is a sample text
