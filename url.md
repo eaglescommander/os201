@@ -36,6 +36,7 @@ Also, you should have access to a terminal somewhere, installing WSL or using th
 ## Credit Where Credit's Due
 
 [Rahmat Mustafa Samik Ibrahim](https://www.cs.ui.ac.id/index.php/rahmat-mustafa-samik-ibrahim/), also known as RMS, is (or was) my lecturer for this course. He worked on a lot of the resources I shared. I'd like to thank his hard work, for without it, I may not have been here.
+
 <img src="https://www.cs.ui.ac.id/wp-content/uploads/2017/04/R.-M.-Samik-Ibrahim-200x300.jpg">
 
 Thank you sir!
