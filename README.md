@@ -2,6 +2,4 @@
 
 Welcome to my Operating Systems page ([eaglescommander](https://github.com/eaglescommander/))!
 
-## The Why
-
-This is a sample text of readme
+This repository serves as a main way for me to complete OS201's tasks
