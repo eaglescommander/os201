@@ -1,5 +1,5 @@
 Script started on Sun 31 May 2020 11:08:16 PM WIB
-]0;nadhif.adyatma@badak: ~nadhif.adyatma@badak:~$ PS1="$ "
+]0;nadhif.adyatma@badak: ~nadhif.adyatma@badak:~$ PS1="$ "
 $ echo $GitHubUser
 eaglescommander
 $ echo $PSTAMP
